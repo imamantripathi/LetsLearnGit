@@ -6,6 +6,6 @@ public class multiply
         int a=3;
         int b=2;
         int c= a*b;
-        System.out.println("the sum od A and B "+c);
+        System.out.println("The multiply of A and B "+c);
     }
 }
